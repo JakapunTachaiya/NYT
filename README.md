@@ -1,6 +1,8 @@
 # NYT
 
 Please change your configurations  in config/settings.cfg
+
+
  -Change to your API-key
  -date for searching
 
