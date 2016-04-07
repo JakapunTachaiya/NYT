@@ -1,0 +1,24 @@
+INFO:root:Getting started.
+INFO:root:Working on 20050101.
+INFO:root:Working on 20050102.
+INFO:root:Working on 20050103.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): learning.blogs.nytimes.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: learning.blogs.nytimes.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): learning.blogs.nytimes.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: learning.blogs.nytimes.com
+INFO:root:Working on 20050104.
+INFO:root:Working on 20050105.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+INFO:root:Working on 20050106.
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+INFO:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): www.nytimes.com
+INFO:requests.packages.urllib3.connectionpool:Resetting dropped connection: www.nytimes.com
+INFO:root:Working on 20050107.
+INFO:root:Working on 20050108.
+INFO:root:Working on 20050109.
